@@ -1,1 +1,1 @@
-# vim-systemverilog-syntax
+# vim-systemverilog
