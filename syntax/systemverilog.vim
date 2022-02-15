@@ -21,7 +21,7 @@ syn keyword svRepeat        always always_comb always_ff always_latch do for for
 
 syn keyword svStructure     enum struct union
 
-syn keyword svSpecial       bins cell constraint coverpoint defparam design final ignore_bins illegal_bins initial instance
+syn keyword svSpecial       bins cell constraint coverpoint defparam design final ignore_bins illegal_bins initial
 syn keyword svSpecial       liblist library modport priority timeprecision timeunit unique use
 
 syn keyword svStorageClass  class clocking config covergroup endclass endclocking endfunction endconfig endgenerate endgroup
