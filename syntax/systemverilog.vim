@@ -34,7 +34,7 @@ syn keyword svStatement     packed posedge protected pure rand randc ref static 
 syn keyword svStatement     highz0 highz1 large medium pull0 pull1 small strong0 strong1 supply0 supply1 virtual weak0 weak1
 
 syn keyword svType          bit buf buffif0 bufif1 byte chandle coms event genvar int integer logic longint mailbox process semaphore
-syn keyword svType          nmos  motif0 notif1 parameter pmos rmos real realtime reg rmos
+syn keyword svType          nmos  motif0 notif1 localparam parameter pmos rmos real realtime reg rmos
 syn keyword svType          shortint shotreal specparam string time tran tranif0 tranif1 tri tri0 tri1 triand trior trireg
 syn keyword svType          wire wand wor
 
